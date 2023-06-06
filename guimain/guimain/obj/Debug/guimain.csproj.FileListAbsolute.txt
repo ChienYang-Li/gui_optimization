@@ -1,0 +1,896 @@
+D:\guimain\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\bin\Debug\guimain.exe
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\bin\Debug\guimain.pdb
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.exe
+D:\程式暫存區\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(firstedition)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(firstedition)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(firstedition)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(firstedition)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(firstedition)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(firstedition)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190123)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190123)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190123)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190123)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190123)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190123)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain (20190124)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain (20190124)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain (20190124)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain (20190124)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain (20190124)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain (20190124)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain (20190125)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain (20190125)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain (20190125)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain (20190125)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain (20190125)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain (20190125)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain (20190129)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain (20190129)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain (20190129)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain (20190129)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain (20190129)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain (20190129)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190221)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190221)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190221)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190221)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190221)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190221)\guimain\guimain\obj\Debug\guimain.pdb
+D:\visual studio\guimain(20190223)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\visual studio\guimain(20190223)\guimain\guimain\bin\Debug\guimain.exe
+D:\visual studio\guimain(20190223)\guimain\guimain\bin\Debug\guimain.pdb
+D:\visual studio\guimain(20190223)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.csprojResolveAssemblyReference.cache
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.Cache
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.exe
+D:\visual studio\guimain(20190223)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190304)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190304)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190304)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190304)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190304)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190304)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190307)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190307)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190307)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190307)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190307)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190307)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190307)ratio\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190307)ratio\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190307)ratio\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190307)ratio\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190307)ratio\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190307)ratio\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903010)ratio\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903010)ratio\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903010)ratio\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903010)ratio\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903010)ratio\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903010)ratio\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903011)ratio\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903011)ratio\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903011)ratio\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903011)ratio\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903011)ratio\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903011)ratio\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903011)ratio opt\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903011)ratio opt\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903011)ratio opt\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903011)ratio opt\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903011)ratio opt\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903011)ratio opt\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903011)ratio opt1  img\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903013)ratio opt1  img\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903014)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903015)ratio opt1  img\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903018)ratio opt1  img\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903019)ratio opt1  img\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903020)ratio opt1  img - Copy\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903020)ratio\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903020)ratio\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903020)ratio\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903020)ratio\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903020)ratio\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903020)ratio\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903021)ratio  final\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903021)ratio  final\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903021)ratio  final\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903021)ratio  final\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903021)ratio  final\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903021)ratio  final\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903026)ratio  final\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903026)ratio  final\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903026)ratio  final\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903026)ratio  final\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903026)ratio  final\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903026)ratio  final\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903027)ratio  final\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903027)ratio  final\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903027)ratio  final\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903027)ratio  final\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903027)ratio  final\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903027)ratio  final\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(201903029)ratio  final\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(201903029)ratio  final\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(201903029)ratio  final\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(201903029)ratio  final\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(201903029)ratio  final\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(201903029)ratio  final\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190401)ratio  final\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190401)ratio  final\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190401)ratio  final\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190401)ratio  final\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190401)ratio  final\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190401)ratio  final\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(20190410)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190410)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190410)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190410)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190410)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190410)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190412)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190412)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190412)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190412)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190412)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190412)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190423)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190423)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190423)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190423)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190423)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190423)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(20190430)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(20190430)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(20190430)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(20190430)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(20190430)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(20190430)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190508)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190508)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190508)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190508)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190508)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190508)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190509)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190509)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190509)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190509)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190509)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190509)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190513)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190513)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190513)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190513)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190513)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190513)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190516)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190516)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190516)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190516)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190516)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190516)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190520)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190520)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190520)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190520)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190520)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190520)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190527)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190527)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190527)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190527)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190527)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190527)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190529)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190529)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190529)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190529)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190529)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190529)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190605)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190605)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.pdb
+G:\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.exe.config
+G:\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.exe
+G:\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.pdb
+G:\guimain(new20190605)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csprojResolveAssemblyReference.cache
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.LE.resources
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.Cache
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.exe
+G:\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.pdb
+D:\visual studio\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\visual studio\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.exe
+D:\visual studio\guimain(new20190605)\guimain\guimain\bin\Debug\guimain.pdb
+D:\visual studio\guimain(new20190605)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csprojResolveAssemblyReference.cache
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.Cache
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.exe
+D:\visual studio\guimain(new20190605)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190612)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190612)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190612)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190612)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190612)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190612)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190613)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190613)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190613)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190613)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190613)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190613)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190618)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190618)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190618)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190618)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190618)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190618)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190621)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190621)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190621)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190621)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190621)\guimain\guimain\bin\Debug\HDF5DotNet.dll
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190621)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190626)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190626)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190626)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190626)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190626)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190715)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190715)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190715)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190715)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.pdb
+E:\LI20190725\guimain(new20190715)\guimain\guimain\bin\Debug\guimain.exe.config
+E:\LI20190725\guimain(new20190715)\guimain\guimain\bin\Debug\guimain.exe
+E:\LI20190725\guimain(new20190715)\guimain\guimain\bin\Debug\guimain.pdb
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.LE.resources
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.exe
+E:\LI20190725\guimain(new20190715)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190729)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190729)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190729)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190729)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190729)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190731)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190731)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190731)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190731)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190731)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190813)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190813)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190813)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190813)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190813)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190814)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190814)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190814)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190814)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190814)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190815)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190815)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190815)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190815)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190815)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190816)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190816)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190816)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190816)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190816)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190829)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190829)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190829)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190829)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190829)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190830)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190830)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190830)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190830)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190830)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190831)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190831)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190831)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190831)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190831)\guimain\guimain\obj\Debug\guimain.pdb
+D:\guimain(new20190901)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\guimain(new20190901)\guimain\guimain\bin\Debug\guimain.exe
+D:\guimain(new20190901)\guimain\guimain\bin\Debug\guimain.pdb
+D:\guimain(new20190901)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.exe
+D:\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.pdb
+D:\20190901\guimain(new20190901)\guimain\guimain\bin\Debug\guimain.exe.config
+D:\20190901\guimain(new20190901)\guimain\guimain\bin\Debug\guimain.exe
+D:\20190901\guimain(new20190901)\guimain\guimain\bin\Debug\guimain.pdb
+D:\20190901\guimain(new20190901)\guimain\guimain\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csprojAssemblyReference.cache
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.GuiMain.resources
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.LE.resources
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.Optimization.resources
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.Parameter.resources
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.Properties.Resources.resources
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csproj.GenerateResource.cache
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csproj.CoreCompileInputs.cache
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.csproj.CopyComplete
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.exe
+D:\20190901\guimain(new20190901)\guimain\guimain\obj\Debug\guimain.pdb
